@@ -1,2 +1,1 @@
-print('hello git world')
-print('this is a feature update')
+def greet(name): return f'hello {name}'
